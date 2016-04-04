@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shut Up And Listen To My Songs]]></title>
         <description><![CDATA[Shut Up And Listen To My Songs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shut-up-and-listen-to-my-songs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 22:47:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 22:48:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shut-up-and-listen-to-my-songs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test.</p>]]></description>
-            <link>undefinedd63e3241-7540-45ad-aef4-c06a66c3c2cf/index.html</link>
+            <link>https://thegrid.ai/shut-up-and-listen-to-my-songs/d63e3241-7540-45ad-aef4-c06a66c3c2cf/index.html</link>
             <guid isPermaLink="false">d63e3241-7540-45ad-aef4-c06a66c3c2cf</guid>
-            <pubDate>Mon, 04 Apr 2016 22:47:20 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 22:48:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
